@@ -38,6 +38,9 @@
     <ClCompile Include="smple-2d-engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opengl_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="smple-2d-engine.rc">
